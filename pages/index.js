@@ -143,6 +143,7 @@ export default function Home() {
         </div>
 
 
+
         <Grid container>
               <Grid item xs style={{backgroundImage: 'url(/images/pics/pic_1.jpg)', boxShadow: "inset 2000px 0 0 0 rgba(0, 0, 0, 0.5)", backgroundSize:'cover', backgroundRepeat:'no-repeat',textAlign:'center'}}>
                 <div className={styles.ctaBox}>
