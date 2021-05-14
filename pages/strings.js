@@ -1,7 +1,7 @@
 import React from 'react'
 import LocalizedStrings from 'react-localization';
 
-export let strings = new LocalizedStrings({
+export default strings = new LocalizedStrings({
 
   en: {
     heroTitle:"Giuseppe Gullo",
